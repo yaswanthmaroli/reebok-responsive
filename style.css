@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;1,100;1,300&family=Major+Mono+Display&family=Neuton:wght@200&family=Open+Sans:wght@300;800&family=Shippori+Mincho+B1:wght@400;500&family=Titillium+Web:ital,wght@0,200;1,200&display=swap');
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato';
+    width:100vw !important;
+}
+.navbar{
+    background-color:black ;
+    
+}
+.nav-item{
+    font-size: small;
+}
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+}
+.navbar-white .navbar-toggle .icon-bar {
+    background: #fff;
+}
+
+
+.form-control{
+    border-radius: 20px;
+    
+}
+.btn{
+    background-color: black;
+    width: 10rem;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.heading-trending{
+    background-color:  #E5E8E8 ;
+    
+}
+.btns{
+    background-color: white;
+    color: black;
+    border-width: 1px;
+
+}
+.mainfooter{
+    background-color: #2f2f2b;
+    
+}
+
+    
+
+.footer-2{
+    background-color: #272723;
+}
+.footer-section-2{
+    background-color: #828280;
+    font-size:12px;
+    
+}
+.footer-section-2 h6{
+    color: #272723;
+    font-weight: bold;
+}
+
+.bt{
+
+    border-radius: 10px;
+}
+.footer-section-3{
+    background-color:   #616A6B ;
+    
+}
+.footer-section-4{
+background-color: #272723;
+
+}
+.footer-section-4 p{
+    font-size: small;
+}
+
+
+
